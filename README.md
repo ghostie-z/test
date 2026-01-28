@@ -159,9 +159,7 @@ Errors are printed to the console and written to the log file.
 
 ---
 
-## License
 
-MIT License
 
 ```
 ```
