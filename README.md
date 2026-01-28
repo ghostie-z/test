@@ -1,4 +1,4 @@
-```markdown
+
 # Binance Futures Testnet Trading Bot (USDT-M)
 
 A Python command-line application that places MARKET and LIMIT orders on Binance USDT-M Futures Testnet.  
@@ -32,7 +32,6 @@ The bot is intended for testing and educational purposes only and does not use r
 
 ## Project Structure
 
-```
 
 binance_futures_bot/
 │
@@ -45,7 +44,7 @@ binance_futures_bot/
 ├── .gitignore
 └── bot.log
 
-````
+
 
 ---
 
@@ -160,3 +159,9 @@ Errors are printed to the console and written to the log file.
 
 ---
 
+## License
+
+MIT License
+
+```
+```
